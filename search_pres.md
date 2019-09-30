@@ -146,6 +146,10 @@
 * [](https://medium.com/webbdev)
 * [](https://medium.com/codyhouse)
 
+##### Дайджесты
+
+* [Дайджест от Alexzfort](https://habr.com/ru/users/alexzfort/posts/)
+
 ##### Вопросы и ответы 
 
 [stackoverflow](https://stackoverflow.com/) - самый популярный сайт с ответами на вопросы. Есть [русская версия](https://ru.stackoverflow.com/) (не переоводы, а отдельный контент, меньше ответов)
