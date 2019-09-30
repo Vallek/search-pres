@@ -244,10 +244,10 @@ quora.com (не путать с qaru.site)
 
 По видео сложнее искать, так как вы не можете бегло осмотреть весь ролик. Но есть полезные видео с докладов, конференций или просто от ютьюберов, которые делятся какими-то рецептами.
 
-Пример полезных блогов:
-* []()
-* []()
-* []()
+Пример полезных каналов:
+* [Fontend Channel](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A)
+* [Академия Яндекс - Фронтенд](https://www.youtube.com/channel/UCMtlICYxr6Dz_PG9_SVqRYQ/)
+* [HolyJS](https://www.youtube.com/channel/UC2Jwo4Q0s-ucjGseHP8XUSQ/)
 
 #### Аудио
 
