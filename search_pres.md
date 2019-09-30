@@ -133,23 +133,23 @@
 Попуялрынй коллективный блог на английском. Более разрозенный и менее социальный, чем хабр. Много отличных статьей про верстку и веб-разработку. Есть сообщества, публикающие статьи разных авторов по темам. Сообщество freecodecamp раньше было частью медиума, а теперь их статьи на [отдельном сайте](https://www.freecodecamp.org/news/). Также есть переводы разного качества.
 
 Пример полезных постов:
-[Флексбокс в гифках](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
-[Большой гайд по флексу](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/)
-[Быстрый гайд по адаптивным гридам](https://www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/)
+* [Флексбокс в гифках](https://www.freecodecamp.org/news/an-animated-guide-to-flexbox-d280cf6afc35/)
+* [Большой гайд по флексу](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/)
+* [Быстрый гайд по адаптивным гридам](https://www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/)
 
 Пример полезных сообществ:
-[](https://designpub.ru/)
-[](https://medium.com/webbdev)
-[](https://medium.com/codyhouse)
+* [](https://designpub.ru/)
+* [](https://medium.com/webbdev)
+* [](https://medium.com/codyhouse)
 
 ##### Вопросы и ответы 
 
 [stackoverflow](https://stackoverflow.com/) - самый популярный сайт с ответами на вопросы. Есть [русская версия](https://ru.stackoverflow.com/) (не переоводы, а отдельный контент, меньше ответов)
 
 Пример полезных ответов:
-[]()
-[]()
-[]()
+* []()
+* []()
+* []()
 
 [тостер](https://toster.ru/) - сайт от авторов хабра
 
