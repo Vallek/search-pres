@@ -140,10 +140,10 @@
 * [Большой гайд по флексу](https://www.freecodecamp.org/news/understanding-flexbox-everything-you-need-to-know-b4013d4dc9af/)
 * [Быстрый гайд по адаптивным гридам](https://www.freecodecamp.org/news/how-to-make-your-html-responsive-by-adding-a-single-line-of-css-2a62de81e431/)
 
-Пример полезных сообществ:
-* [](https://designpub.ru/)
-* [](https://medium.com/webbdev)
-* [](https://medium.com/codyhouse)
+Пример сообществ:
+* [Дизайн собака](https://designpub.ru/)
+* [webbdev](https://medium.com/webbdev)
+* [codyhouse](https://medium.com/codyhouse)
 
 ##### Дайджесты
 
