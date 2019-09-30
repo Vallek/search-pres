@@ -193,7 +193,7 @@ quora.com (не путать с qaru.site)
 
 ##### [javascript.info](https://javascript.info/) 
 
-Отличный учебник по JS. Популярная русская версия [learn.javascript.ru](https://learn.javascript.ru/)) не всегда актуальная.
+Отличный учебник по JS. Популярная русская версия [learn.javascript.ru](https://learn.javascript.ru/) не всегда актуальная.
 
 ##### [WHATWG](https://html.spec.whatwg.org/multipage/)
 
