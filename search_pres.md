@@ -104,7 +104,6 @@
 * [Прокси серверы](https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%BA%D1%81%D0%B8-%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80)
 * [Цветовая модель RGB](https://en.wikipedia.org/wiki/RGB_color_model)
 
-
 Обращайте внимание на плашки в начале статей и заглядывайте с раздел "Обсуждение". Если видите горячие споры, то статью стоит читать с удвоенной бдительностью.
 
 ##### Авторские блоги
@@ -155,9 +154,9 @@
 [stackoverflow](https://stackoverflow.com/) - самый популярный сайт с ответами на вопросы. Есть [русская версия](https://ru.stackoverflow.com/) (не переоводы, а отдельный контент, меньше ответов)
 
 Пример полезных ответов:
-* []()
-* []()
-* []()
+* [Как клонировать репу в определенную папку](https://stackoverflow.com/questions/651038/how-do-you-clone-a-git-repository-into-a-specific-folder)
+* [Конфликтуют ли абсолютное позиционирование и флексбокс](https://stackoverflow.com/questions/41033245/does-position-absolute-conflict-with-flexbox)
+* [Тут список читалок](https://stackoverflow.com/questions/43340690/is-there-an-online-emulating-screen-reader-tool-to-test-against-a-custom-web-pag)
 
 [тостер](https://toster.ru/) - сайт от авторов хабра
 
