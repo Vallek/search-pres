@@ -151,6 +151,7 @@
 ##### Дайджесты и подборки материалов
 
 * [Дайджест от Alexzfort](https://habr.com/ru/users/alexzfort/posts/)
+* [Фронтенд — это не больно!](https://bespoyasov.ru/front-not-pain/)
 
 ##### Вопросы и ответы 
 
