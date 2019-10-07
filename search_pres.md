@@ -122,6 +122,10 @@
 
 Группы разных компаний или сообщества на тему. Если активно используете есть смысл что-то поискать.
 
+Примеры сообществ:
+* [forwebdev](https://vk.com/forwebdev)
+* [love_frontend](https://vk.com/love_frontend)
+
 ##### dev.to
 
 Новая "модная" соц. сеть для разработчиков.
@@ -144,7 +148,7 @@
 * [webbdev](https://medium.com/webbdev)
 * [codyhouse](https://medium.com/codyhouse)
 
-##### Дайджесты
+##### Дайджесты и подборки материалов
 
 * [Дайджест от Alexzfort](https://habr.com/ru/users/alexzfort/posts/)
 
