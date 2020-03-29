@@ -202,7 +202,7 @@ quora.com (не путать с qaru.site)
 
 Еще один знаменитый источник информации о верстке. Среди авторов есть авторы спецификаций.
 
-##### [developers.google.com](https://developers.google.com/)
+##### [developers.google.com](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/constructing-the-object-model)
 
 Справочные материалы от гугл. Много полезного про рендеринг страниц, DOM, производительность и т.п.
 
