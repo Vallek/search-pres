@@ -122,6 +122,8 @@
 Пример полезных постов в авторских сайтах:
 * [geddski про разницу между width и flex-basis](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
 * [List Apart про область видимости в JS](https://alistapart.com/article/fixing-variable-scope-issues-with-ecmascript-6/)
+* [Как работает значение auto](https://ishadeed.com/article/auto-css/)
+* [Флексбокс и абсолютное позиционирование] (https://www.chenhuijing.com/blog/flexbox-and-absolute-positioning/)
 
 ##### Твиттер 
 
